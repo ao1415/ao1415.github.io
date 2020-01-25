@@ -1,0 +1,11 @@
+.thumbnail {
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    box-sizing: border-box;
+    width: 160px;
+}
+
+.thumbnail figcaption {
+    text-align: center;
+}
