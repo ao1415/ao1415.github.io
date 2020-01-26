@@ -9,3 +9,15 @@
 .thumbnail figcaption {
     text-align: center;
 }
+
+.nobr {
+    white-space: nowrap;
+}
+
+.align-center {
+    text-align: center;
+}
+
+table tr th {
+    text-align: left;
+}
